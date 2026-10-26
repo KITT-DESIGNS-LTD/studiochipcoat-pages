@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://studiochipcoat.net
+
+# Sitemaps
+Sitemap: https://studiochipcoat.net/sitemap.xml
